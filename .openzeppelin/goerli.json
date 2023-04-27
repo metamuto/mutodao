@@ -1,0 +1,3632 @@
+{
+  "manifestVersion": "3.2",
+  "proxies": [
+    {
+      "address": "0xfAddDEa6d330bc53F6787792B0afD1CbEA333E21",
+      "txHash": "0x05d960b57e59682db5e3978862a52f5137aa0c8c610680b42ab00590b5be3598",
+      "kind": "uups"
+    },
+    {
+      "address": "0xbfA40D14617064a19e1273f3d3cAbc1318523BbC",
+      "txHash": "0x2cfe44a85909f93d2d363d819afac1c990744b4b4962e851cb58d680d6bf5111",
+      "kind": "uups"
+    },
+    {
+      "address": "0x36EB1079082c78CD5718b5184f9e31feBb4f6A62",
+      "txHash": "0xa6c518ab90a75caad67f358d11766234a70c2c82813c45cc1670f0d7c526b295",
+      "kind": "uups"
+    },
+    {
+      "address": "0x4AebcD791BF83A2Be29CBb19E20A5883d01F2ee8",
+      "txHash": "0xafdaed23bf64ddcdffb48d900d37859cbdc2f3490fd003ef026d6c07e206a36e",
+      "kind": "uups"
+    },
+    {
+      "address": "0x3fd6c357AF1DA18c111cEE918bD2888De72Fb553",
+      "txHash": "0x5cd9990871267f550dfb060a8214c453cf918fc814af261cee99863236ff5b59",
+      "kind": "uups"
+    },
+    {
+      "address": "0x2F84370E07229369147C1286Af9a804962f6c01b",
+      "txHash": "0x708f33ffaf9119f2da1a2c38c16013a92519ced4f33d73726ef6eac251f54fdb",
+      "kind": "uups"
+    },
+    {
+      "address": "0x7af8074699eF0cc4544630FE252dB3E2C363d70a",
+      "txHash": "0x71fe3ebb306962a985285a37278846b6c7a4cfd7e23f1cc9950f86c0131af273",
+      "kind": "uups"
+    },
+    {
+      "address": "0x35519484B995a537f6af333CbA3f26B0f4e29fFB",
+      "txHash": "0xf508b46fe9b367795760da751b6495ab3b37d38c6926c01e7e2d7371e130ef46",
+      "kind": "uups"
+    },
+    {
+      "address": "0x1FEe24C932019092Cd935f535A7Ae80A7ba3F3dC",
+      "txHash": "0x0362338e1ed1ecb35f52d6ac1e175008eefb897bb888ebc4fda2c669a90fe50c",
+      "kind": "uups"
+    },
+    {
+      "address": "0x99FAA1b5b3B335eb3667ec2266aC9a559C25C447",
+      "txHash": "0xc196b64e6dde658382d55b8a59b5cfc948e03edd22d571ba70fe926828816b5e",
+      "kind": "uups"
+    },
+    {
+      "address": "0x9f13664C9780961af4a0924227aB0dCB5e8d5C1A",
+      "txHash": "0x81745e2a14379fc3f1abdfa3a918ce30ba151dafb89424bf11b2a15ff32d97c7",
+      "kind": "uups"
+    },
+    {
+      "address": "0xf4F8a7106A5a2f435E5132FD6CE4e413B02D32c4",
+      "txHash": "0xbf22cfcf11aa0b534d7efa0c3e966bf22698be9d500ce0227c10db5da0e8bff1",
+      "kind": "uups"
+    },
+    {
+      "address": "0x7671993bD461E395AC6a0d2fEa8E2c21a866AAcC",
+      "txHash": "0x5eacdbfc9483f2a3392fcf90cb51893222751cfa28e00e35ac5aed0a4109ef96",
+      "kind": "uups"
+    },
+    {
+      "address": "0xd955EBe6f4b1FDb6F63fC848aB7b99bB5e8FA928",
+      "txHash": "0x199ef4637475b0343d597767351f1935eeede7e655203440f8d8f7327571ea20",
+      "kind": "uups"
+    },
+    {
+      "address": "0xD2a9F168763fc106B5671dfbDA88200822727ACF",
+      "txHash": "0x10feb2877cc19fd786d1620da600123349e358582fac292910ab977df00b8281",
+      "kind": "uups"
+    },
+    {
+      "address": "0x388828E5c7efC695bB437E4c6d6489D7969b4FaF",
+      "txHash": "0x5051ea62e5a46a70d80215df9bd5b418e16763906ba2930e8e2020d4ed0de0c5",
+      "kind": "uups"
+    },
+    {
+      "address": "0x61167590661e10cfd10307F8D4fC9fAD4080c5CD",
+      "txHash": "0x138ab918d4c57f8f1844672734fe56740c8df6220a4668cca18d4ad6d7907697",
+      "kind": "uups"
+    },
+    {
+      "address": "0x48Cf78636bfdD8b8DB47eA4cFe2150645FF381cE",
+      "txHash": "0x35bb0f33fc8f1cfb00f3bd8c1c3026852b7a2f5ff1253141c4284ce334efe368",
+      "kind": "uups"
+    },
+    {
+      "address": "0xD3548f6A7103c84d91c2CFcA4DD28D0536727d12",
+      "txHash": "0x2ef53a328dfd93d0b8e0a70c195cb0a29427401e8a1c2a1fe433ac4d395f0304",
+      "kind": "uups"
+    }
+  ],
+  "impls": {
+    "1271d779372aefac31bbc18ed8db837306de3aed15e3246f3a31e0e91c21f638": {
+      "address": "0x3E1fb998B87467239aaEa4D8362eA1aEE235260e",
+      "txHash": "0x1e2c5da9edabd8945af15e3fe5024ef33c0e40312b53cc3b471718561b331359",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_CommunityIds",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:147"
+          },
+          {
+            "label": "_Group",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:148"
+          },
+          {
+            "label": "_MemberIds",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:149"
+          },
+          {
+            "label": "votingContractAddress",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:151"
+          },
+          {
+            "label": "tokenAddress",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:152"
+          },
+          {
+            "label": "_communities",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_mapping(t_uint256,t_struct(Community)1137_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:160"
+          },
+          {
+            "label": "_communityGroups",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:161"
+          },
+          {
+            "label": "_controllerProxy",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:166"
+          },
+          {
+            "label": "_active",
+            "offset": 20,
+            "slot": "208",
+            "type": "t_bool",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:172"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_string_storage)dyn_storage": {
+            "label": "string[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Group)1089_storage)dyn_storage": {
+            "label": "struct Group[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_array(t_uint256)dyn_storage": {
+            "label": "uint256[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_enum(CommunityStatus)1075": {
+            "label": "enum CommunityStatus",
+            "members": [
+              "ACTIVE",
+              "ABANDONED",
+              "SUSPENDED",
+              "INACTIVE",
+              "NOT_FOUND"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)": {
+            "label": "mapping(uint256 => struct Group[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Community)1137_storage)": {
+            "label": "mapping(uint256 => struct Community)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Community)1137_storage": {
+            "label": "struct Community",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(CommunityStatus)1075",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "createBlock",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createTimestamp",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "creator",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "purpose",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "links",
+                "type": "t_array(t_string_storage)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "cover",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "logo",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "legalStatus",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "legalDocs",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "bondsToCreateProposal",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "12"
+              },
+              {
+                "label": "timeBeforeProposalExpires",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "13"
+              },
+              {
+                "label": "bondsToClaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "14"
+              },
+              {
+                "label": "timeToUnclaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "15"
+              },
+              {
+                "label": "balance",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "16"
+              }
+            ],
+            "numberOfBytes": "544"
+          },
+          "t_struct(Counter)1243_storage": {
+            "label": "struct Counters.Counter",
+            "members": [
+              {
+                "label": "_value",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(Group)1089_storage": {
+            "label": "struct Group",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "members",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "proposalCreation",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "voting",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "06bcc568d2c7e722783bd89dbf6e5ea0b72d86f7c1fd0c85a680b840986c5b26": {
+      "address": "0x54b91C26E6c8d413aEe3E675cb420fF0219C1De0",
+      "txHash": "0x5c7a6bf09553693946d9aa49aebc711c5f44f18f445eb9692d995f0717609830",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_CommunityIds",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:147"
+          },
+          {
+            "label": "_Group",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:148"
+          },
+          {
+            "label": "_MemberIds",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:149"
+          },
+          {
+            "label": "votingContractAddress",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:151"
+          },
+          {
+            "label": "tokenAddress",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:152"
+          },
+          {
+            "label": "_communities",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_mapping(t_uint256,t_struct(Community)1137_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:160"
+          },
+          {
+            "label": "_communityGroups",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:161"
+          },
+          {
+            "label": "_controllerProxy",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:166"
+          },
+          {
+            "label": "_active",
+            "offset": 20,
+            "slot": "208",
+            "type": "t_bool",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:172"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_string_storage)dyn_storage": {
+            "label": "string[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Group)1089_storage)dyn_storage": {
+            "label": "struct Group[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_array(t_uint256)dyn_storage": {
+            "label": "uint256[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_enum(CommunityStatus)1075": {
+            "label": "enum CommunityStatus",
+            "members": [
+              "ACTIVE",
+              "ABANDONED",
+              "SUSPENDED",
+              "INACTIVE",
+              "NOT_FOUND"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)": {
+            "label": "mapping(uint256 => struct Group[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Community)1137_storage)": {
+            "label": "mapping(uint256 => struct Community)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Community)1137_storage": {
+            "label": "struct Community",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(CommunityStatus)1075",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "createBlock",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createTimestamp",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "creator",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "purpose",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "links",
+                "type": "t_array(t_string_storage)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "cover",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "logo",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "legalStatus",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "legalDocs",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "bondsToCreateProposal",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "12"
+              },
+              {
+                "label": "timeBeforeProposalExpires",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "13"
+              },
+              {
+                "label": "bondsToClaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "14"
+              },
+              {
+                "label": "timeToUnclaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "15"
+              },
+              {
+                "label": "balance",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "16"
+              }
+            ],
+            "numberOfBytes": "544"
+          },
+          "t_struct(Counter)1243_storage": {
+            "label": "struct Counters.Counter",
+            "members": [
+              {
+                "label": "_value",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(Group)1089_storage": {
+            "label": "struct Group",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "members",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "proposalCreation",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "voting",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "c2a088da263e32d9544bb6fbaeb3650264614ac156e174ea9ff5e6d26dea66ff": {
+      "address": "0x1eD2A1Faf0Aa1184F1595d1Db577842C6e4C5160",
+      "txHash": "0xe74186fa4e64d30a10c0dd0afc568acad616271923ccadf1635053b0fa080e25",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_CommunityIds",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:147"
+          },
+          {
+            "label": "_Group",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:148"
+          },
+          {
+            "label": "_MemberIds",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:149"
+          },
+          {
+            "label": "votingContractAddress",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:151"
+          },
+          {
+            "label": "tokenAddress",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:152"
+          },
+          {
+            "label": "_communities",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_mapping(t_uint256,t_struct(Community)1137_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:160"
+          },
+          {
+            "label": "_communityGroups",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:161"
+          },
+          {
+            "label": "_controllerProxy",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:166"
+          },
+          {
+            "label": "_active",
+            "offset": 20,
+            "slot": "208",
+            "type": "t_bool",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:172"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_string_storage)dyn_storage": {
+            "label": "string[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Group)1089_storage)dyn_storage": {
+            "label": "struct Group[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_array(t_uint256)dyn_storage": {
+            "label": "uint256[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_enum(CommunityStatus)1075": {
+            "label": "enum CommunityStatus",
+            "members": [
+              "ACTIVE",
+              "ABANDONED",
+              "SUSPENDED",
+              "INACTIVE",
+              "NOT_FOUND"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)": {
+            "label": "mapping(uint256 => struct Group[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Community)1137_storage)": {
+            "label": "mapping(uint256 => struct Community)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Community)1137_storage": {
+            "label": "struct Community",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(CommunityStatus)1075",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "createBlock",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createTimestamp",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "creator",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "purpose",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "links",
+                "type": "t_array(t_string_storage)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "cover",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "logo",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "legalStatus",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "legalDocs",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "bondsToCreateProposal",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "12"
+              },
+              {
+                "label": "timeBeforeProposalExpires",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "13"
+              },
+              {
+                "label": "bondsToClaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "14"
+              },
+              {
+                "label": "timeToUnclaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "15"
+              },
+              {
+                "label": "balance",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "16"
+              }
+            ],
+            "numberOfBytes": "544"
+          },
+          "t_struct(Counter)1243_storage": {
+            "label": "struct Counters.Counter",
+            "members": [
+              {
+                "label": "_value",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(Group)1089_storage": {
+            "label": "struct Group",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "members",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "proposalCreation",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "voting",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "6f9230018a08904a9638b8fb3b55957b514fa0a5c8aed392c912f6677f620c33": {
+      "address": "0xa7FDE2F44572ae62eEC04F944056880E0a7C35bD",
+      "txHash": "0xc8d27121e4cb79d0cd2648002631fa21ac015eeb7aa4d9f42853b2443d965bdb",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_CommunityIds",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:147"
+          },
+          {
+            "label": "_Group",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:148"
+          },
+          {
+            "label": "_MemberIds",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:149"
+          },
+          {
+            "label": "votingContractAddress",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:151"
+          },
+          {
+            "label": "tokenAddress",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:152"
+          },
+          {
+            "label": "_communities",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_mapping(t_uint256,t_struct(Community)1137_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:160"
+          },
+          {
+            "label": "_communityGroups",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:161"
+          },
+          {
+            "label": "_controllerProxy",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:166"
+          },
+          {
+            "label": "_active",
+            "offset": 20,
+            "slot": "208",
+            "type": "t_bool",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:172"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_string_storage)dyn_storage": {
+            "label": "string[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Group)1089_storage)dyn_storage": {
+            "label": "struct Group[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_array(t_uint256)dyn_storage": {
+            "label": "uint256[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_enum(CommunityStatus)1075": {
+            "label": "enum CommunityStatus",
+            "members": [
+              "ACTIVE",
+              "ABANDONED",
+              "SUSPENDED",
+              "INACTIVE",
+              "NOT_FOUND"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)": {
+            "label": "mapping(uint256 => struct Group[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Community)1137_storage)": {
+            "label": "mapping(uint256 => struct Community)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Community)1137_storage": {
+            "label": "struct Community",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(CommunityStatus)1075",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "createBlock",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createTimestamp",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "creator",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "purpose",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "links",
+                "type": "t_array(t_string_storage)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "cover",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "logo",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "legalStatus",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "legalDocs",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "bondsToCreateProposal",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "12"
+              },
+              {
+                "label": "timeBeforeProposalExpires",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "13"
+              },
+              {
+                "label": "bondsToClaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "14"
+              },
+              {
+                "label": "timeToUnclaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "15"
+              },
+              {
+                "label": "balance",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "16"
+              }
+            ],
+            "numberOfBytes": "544"
+          },
+          "t_struct(Counter)1243_storage": {
+            "label": "struct Counters.Counter",
+            "members": [
+              {
+                "label": "_value",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(Group)1089_storage": {
+            "label": "struct Group",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "members",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "proposalCreation",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "voting",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "5ccaff55ea3a22105560f324fd3ae3ba3af7442d3f41052fa536925d59f78993": {
+      "address": "0x0158FF96D71905F933ca9Dd3470370070c6c6F0C",
+      "txHash": "0xf38de278a8c771a68a8471beaaf48d8150f06f3dda623b646c6a17414e7dade4",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_CommunityIds",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:147"
+          },
+          {
+            "label": "_Group",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:148"
+          },
+          {
+            "label": "_MemberIds",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:149"
+          },
+          {
+            "label": "votingContractAddress",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:151"
+          },
+          {
+            "label": "tokenAddress",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:152"
+          },
+          {
+            "label": "_communities",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_mapping(t_uint256,t_struct(Community)1137_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:160"
+          },
+          {
+            "label": "_communityGroups",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:161"
+          },
+          {
+            "label": "_controllerProxy",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:166"
+          },
+          {
+            "label": "_active",
+            "offset": 20,
+            "slot": "208",
+            "type": "t_bool",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:172"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_string_storage)dyn_storage": {
+            "label": "string[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Group)1089_storage)dyn_storage": {
+            "label": "struct Group[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_array(t_uint256)dyn_storage": {
+            "label": "uint256[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_enum(CommunityStatus)1075": {
+            "label": "enum CommunityStatus",
+            "members": [
+              "ACTIVE",
+              "ABANDONED",
+              "SUSPENDED",
+              "INACTIVE",
+              "NOT_FOUND"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)": {
+            "label": "mapping(uint256 => struct Group[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Community)1137_storage)": {
+            "label": "mapping(uint256 => struct Community)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Community)1137_storage": {
+            "label": "struct Community",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(CommunityStatus)1075",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "createBlock",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createTimestamp",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "creator",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "purpose",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "links",
+                "type": "t_array(t_string_storage)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "cover",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "logo",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "legalStatus",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "legalDocs",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "bondsToCreateProposal",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "12"
+              },
+              {
+                "label": "timeBeforeProposalExpires",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "13"
+              },
+              {
+                "label": "bondsToClaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "14"
+              },
+              {
+                "label": "timeToUnclaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "15"
+              },
+              {
+                "label": "balance",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "16"
+              }
+            ],
+            "numberOfBytes": "544"
+          },
+          "t_struct(Counter)1243_storage": {
+            "label": "struct Counters.Counter",
+            "members": [
+              {
+                "label": "_value",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(Group)1089_storage": {
+            "label": "struct Group",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "members",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "proposalCreation",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "voting",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "4920ecc318860f571510e3e57d0915ead9fb2f08a94b8e3416fe0b01d842bcec": {
+      "address": "0x6A5B998180B1Ef2d909Ff61425545e39b3F06C5B",
+      "txHash": "0x512618d5902ab82f45a7f1e0f95748a211b3c0798a1f1ce0cf352aefb688bc48",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_CommunityIds",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:147"
+          },
+          {
+            "label": "_Group",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:148"
+          },
+          {
+            "label": "_MemberIds",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:149"
+          },
+          {
+            "label": "votingContractAddress",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:151"
+          },
+          {
+            "label": "tokenAddress",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:152"
+          },
+          {
+            "label": "_communities",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_mapping(t_uint256,t_struct(Community)1137_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:160"
+          },
+          {
+            "label": "_communityGroups",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:161"
+          },
+          {
+            "label": "_controllerProxy",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:166"
+          },
+          {
+            "label": "_active",
+            "offset": 20,
+            "slot": "208",
+            "type": "t_bool",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:172"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_string_storage)dyn_storage": {
+            "label": "string[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Group)1089_storage)dyn_storage": {
+            "label": "struct Group[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_array(t_uint256)dyn_storage": {
+            "label": "uint256[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_enum(CommunityStatus)1075": {
+            "label": "enum CommunityStatus",
+            "members": [
+              "ACTIVE",
+              "ABANDONED",
+              "SUSPENDED",
+              "INACTIVE",
+              "NOT_FOUND"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)": {
+            "label": "mapping(uint256 => struct Group[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Community)1137_storage)": {
+            "label": "mapping(uint256 => struct Community)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Community)1137_storage": {
+            "label": "struct Community",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(CommunityStatus)1075",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "createBlock",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createTimestamp",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "creator",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "purpose",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "links",
+                "type": "t_array(t_string_storage)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "cover",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "logo",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "legalStatus",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "legalDocs",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "bondsToCreateProposal",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "12"
+              },
+              {
+                "label": "timeBeforeProposalExpires",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "13"
+              },
+              {
+                "label": "bondsToClaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "14"
+              },
+              {
+                "label": "timeToUnclaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "15"
+              },
+              {
+                "label": "balance",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "16"
+              }
+            ],
+            "numberOfBytes": "544"
+          },
+          "t_struct(Counter)1243_storage": {
+            "label": "struct Counters.Counter",
+            "members": [
+              {
+                "label": "_value",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(Group)1089_storage": {
+            "label": "struct Group",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "members",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "proposalCreation",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "voting",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "f7d074f2d3902138b8f7055085d19f3bb3617b632a2975bbc8f0e8f74d47b20d": {
+      "address": "0x73467B38aD1C0c376043A34e843B79a80ae8D8FE",
+      "txHash": "0x2908ead1405ab3c52cf487ecb398ea78dd3e6aaaa2c9d52ee40fd90ee0435923",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_CommunityIds",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:148"
+          },
+          {
+            "label": "_Group",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:149"
+          },
+          {
+            "label": "_MemberIds",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:150"
+          },
+          {
+            "label": "votingContractAddress",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:152"
+          },
+          {
+            "label": "tokenAddress",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:153"
+          },
+          {
+            "label": "_communities",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_mapping(t_uint256,t_struct(Community)1137_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:161"
+          },
+          {
+            "label": "_communityGroups",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:162"
+          },
+          {
+            "label": "_controllerProxy",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:167"
+          },
+          {
+            "label": "_active",
+            "offset": 20,
+            "slot": "208",
+            "type": "t_bool",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:173"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_string_storage)dyn_storage": {
+            "label": "string[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Group)1089_storage)dyn_storage": {
+            "label": "struct Group[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_array(t_uint256)dyn_storage": {
+            "label": "uint256[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_enum(CommunityStatus)1075": {
+            "label": "enum CommunityStatus",
+            "members": [
+              "ACTIVE",
+              "ABANDONED",
+              "SUSPENDED",
+              "INACTIVE",
+              "NOT_FOUND"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)": {
+            "label": "mapping(uint256 => struct Group[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Community)1137_storage)": {
+            "label": "mapping(uint256 => struct Community)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Community)1137_storage": {
+            "label": "struct Community",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(CommunityStatus)1075",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "createBlock",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createTimestamp",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "creator",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "purpose",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "links",
+                "type": "t_array(t_string_storage)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "cover",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "logo",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "legalStatus",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "legalDocs",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "bondsToCreateProposal",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "12"
+              },
+              {
+                "label": "timeBeforeProposalExpires",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "13"
+              },
+              {
+                "label": "bondsToClaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "14"
+              },
+              {
+                "label": "timeToUnclaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "15"
+              },
+              {
+                "label": "balance",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "16"
+              }
+            ],
+            "numberOfBytes": "544"
+          },
+          "t_struct(Counter)1243_storage": {
+            "label": "struct Counters.Counter",
+            "members": [
+              {
+                "label": "_value",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(Group)1089_storage": {
+            "label": "struct Group",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "members",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "proposalCreation",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "voting",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "f0a82f531f4b06c6b9960b1826f97c40f4afedcb052bec6f617c03c4a4b25f2a": {
+      "address": "0x394c358C1a4a7d6a6299421871E9dcb27270ee1C",
+      "txHash": "0x436fea9730e42d12bf80803a9ae9e94fb16a13899fb68b6dd80f474638d242ff",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_CommunityIds",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:149"
+          },
+          {
+            "label": "_Group",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:150"
+          },
+          {
+            "label": "_MemberIds",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:151"
+          },
+          {
+            "label": "votingContractAddress",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:153"
+          },
+          {
+            "label": "tokenAddress",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:154"
+          },
+          {
+            "label": "_communities",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_mapping(t_uint256,t_struct(Community)1137_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:162"
+          },
+          {
+            "label": "_communityGroups",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:163"
+          },
+          {
+            "label": "_controllerProxy",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:168"
+          },
+          {
+            "label": "_active",
+            "offset": 20,
+            "slot": "208",
+            "type": "t_bool",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:174"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_string_storage)dyn_storage": {
+            "label": "string[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Group)1089_storage)dyn_storage": {
+            "label": "struct Group[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_array(t_uint256)dyn_storage": {
+            "label": "uint256[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_enum(CommunityStatus)1075": {
+            "label": "enum CommunityStatus",
+            "members": [
+              "ACTIVE",
+              "ABANDONED",
+              "SUSPENDED",
+              "INACTIVE",
+              "NOT_FOUND"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)": {
+            "label": "mapping(uint256 => struct Group[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Community)1137_storage)": {
+            "label": "mapping(uint256 => struct Community)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Community)1137_storage": {
+            "label": "struct Community",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(CommunityStatus)1075",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "createBlock",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createTimestamp",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "creator",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "purpose",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "links",
+                "type": "t_array(t_string_storage)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "cover",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "logo",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "legalStatus",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "legalDocs",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "bondsToCreateProposal",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "12"
+              },
+              {
+                "label": "timeBeforeProposalExpires",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "13"
+              },
+              {
+                "label": "bondsToClaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "14"
+              },
+              {
+                "label": "timeToUnclaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "15"
+              },
+              {
+                "label": "balance",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "16"
+              }
+            ],
+            "numberOfBytes": "544"
+          },
+          "t_struct(Counter)1243_storage": {
+            "label": "struct Counters.Counter",
+            "members": [
+              {
+                "label": "_value",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(Group)1089_storage": {
+            "label": "struct Group",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "members",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "proposalCreation",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "voting",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "5a52e82cd4eea628bee2db1f5227a8f9e56aab9d4cdd3d55a4153abf49783427": {
+      "address": "0x56Daf5Ac5dF174bE8FeE315D7CD20fDfe5DbecEA",
+      "txHash": "0xe98403b8292ece51e4688b6119f96019a94b6665082fde9677c58f3ee7ae68ce",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_CommunityIds",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:149"
+          },
+          {
+            "label": "_Group",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:150"
+          },
+          {
+            "label": "_MemberIds",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:151"
+          },
+          {
+            "label": "votingContractAddress",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:153"
+          },
+          {
+            "label": "tokenAddress",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:154"
+          },
+          {
+            "label": "_communities",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_mapping(t_uint256,t_struct(Community)1137_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:162"
+          },
+          {
+            "label": "_communityGroups",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:163"
+          },
+          {
+            "label": "_controllerProxy",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:168"
+          },
+          {
+            "label": "_active",
+            "offset": 20,
+            "slot": "208",
+            "type": "t_bool",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:174"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_string_storage)dyn_storage": {
+            "label": "string[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Group)1089_storage)dyn_storage": {
+            "label": "struct Group[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_array(t_uint256)dyn_storage": {
+            "label": "uint256[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_enum(CommunityStatus)1075": {
+            "label": "enum CommunityStatus",
+            "members": [
+              "ACTIVE",
+              "ABANDONED",
+              "SUSPENDED",
+              "INACTIVE",
+              "NOT_FOUND"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)": {
+            "label": "mapping(uint256 => struct Group[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Community)1137_storage)": {
+            "label": "mapping(uint256 => struct Community)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Community)1137_storage": {
+            "label": "struct Community",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(CommunityStatus)1075",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "createBlock",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createTimestamp",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "creator",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "purpose",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "links",
+                "type": "t_array(t_string_storage)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "cover",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "logo",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "legalStatus",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "legalDocs",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "bondsToCreateProposal",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "12"
+              },
+              {
+                "label": "timeBeforeProposalExpires",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "13"
+              },
+              {
+                "label": "bondsToClaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "14"
+              },
+              {
+                "label": "timeToUnclaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "15"
+              },
+              {
+                "label": "balance",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "16"
+              }
+            ],
+            "numberOfBytes": "544"
+          },
+          "t_struct(Counter)1243_storage": {
+            "label": "struct Counters.Counter",
+            "members": [
+              {
+                "label": "_value",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(Group)1089_storage": {
+            "label": "struct Group",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "members",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "proposalCreation",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "voting",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "dddf987b5bd92f9700cda5066f94d8626b794c6cb77add94008627615fa33488": {
+      "address": "0xD0978a3D5B053Ae6954263009D04E11f88013298",
+      "txHash": "0xe358a009d1eb038f9110bc8585762bd2454e8ab689e869dafa847be2b86b64c5",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_CommunityIds",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:149"
+          },
+          {
+            "label": "_Group",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:150"
+          },
+          {
+            "label": "_MemberIds",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_struct(Counter)1243_storage",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:151"
+          },
+          {
+            "label": "votingContractAddress",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:153"
+          },
+          {
+            "label": "tokenAddress",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:154"
+          },
+          {
+            "label": "_communities",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_mapping(t_uint256,t_struct(Community)1137_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:162"
+          },
+          {
+            "label": "_communityGroups",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:163"
+          },
+          {
+            "label": "_controllerProxy",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_address",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:168"
+          },
+          {
+            "label": "_active",
+            "offset": 20,
+            "slot": "208",
+            "type": "t_bool",
+            "contract": "ControllerFreedom",
+            "src": "cache/solpp-generated-contracts/Controller/Controller.sol:174"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_string_storage)dyn_storage": {
+            "label": "string[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Group)1089_storage)dyn_storage": {
+            "label": "struct Group[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_array(t_uint256)dyn_storage": {
+            "label": "uint256[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_enum(CommunityStatus)1075": {
+            "label": "enum CommunityStatus",
+            "members": [
+              "ACTIVE",
+              "ABANDONED",
+              "SUSPENDED",
+              "INACTIVE",
+              "NOT_FOUND"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_uint256,t_array(t_struct(Group)1089_storage)dyn_storage)": {
+            "label": "mapping(uint256 => struct Group[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Community)1137_storage)": {
+            "label": "mapping(uint256 => struct Community)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Community)1137_storage": {
+            "label": "struct Community",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(CommunityStatus)1075",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "createBlock",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createTimestamp",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "creator",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "purpose",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "links",
+                "type": "t_array(t_string_storage)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "cover",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "logo",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "legalStatus",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "legalDocs",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "bondsToCreateProposal",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "12"
+              },
+              {
+                "label": "timeBeforeProposalExpires",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "13"
+              },
+              {
+                "label": "bondsToClaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "14"
+              },
+              {
+                "label": "timeToUnclaimBounty",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "15"
+              },
+              {
+                "label": "balance",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "16"
+              }
+            ],
+            "numberOfBytes": "544"
+          },
+          "t_struct(Counter)1243_storage": {
+            "label": "struct Counters.Counter",
+            "members": [
+              {
+                "label": "_value",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(Group)1089_storage": {
+            "label": "struct Group",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "name",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "members",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "proposalCreation",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "voting",
+                "type": "t_array(t_uint256)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    }
+  }
+}
